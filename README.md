@@ -32,25 +32,25 @@ This application was created to provide a complete preparation toolkit for anyon
 
 ```
 forMom/
-├── README.md                                    # This file
+├── README.md # This file
 └── N400-Naturalization-Helper/
-    └── n400-naturalization-helper/
-        ├── README.md                           # Detailed project documentation
-        ├── package.json                        # Dependencies and scripts
-        ├── public/                             # Static assets
-        ├── src/
-        │   ├── components/                     # React components
-        │   │   ├── CivicsTest.tsx             # Civics test practice
-        │   │   ├── EnglishTest.tsx            # English skills practice
-        │   │   ├── SpeakingTest.tsx           # Voice/pronunciation practice
-        │   │   ├── InterviewSimulator.tsx     # Mock interview system
-        │   │   ├── FormHelper.tsx             # N-400 form assistance
-        │   │   ├── BudgetAnalyzer.tsx         # Financial planning tools
-        │   │   ├── FileConverter.tsx          # Document utilities
-        │   │   └── ...                        # Additional components
-        │   ├── services/                       # API and data services
-        │   └── lib/                           # Utility libraries
-        └── server/                            # Backend services
+ └── n400-naturalization-helper/
+ ├── README.md # Detailed project documentation
+ ├── package.json # Dependencies and scripts
+ ├── public/ # Static assets
+ ├── src/
+ │ ├── components/ # React components
+ │ │ ├── CivicsTest.tsx # Civics test practice
+ │ │ ├── EnglishTest.tsx # English skills practice
+ │ │ ├── SpeakingTest.tsx # Voice/pronunciation practice
+ │ │ ├── InterviewSimulator.tsx # Mock interview system
+ │ │ ├── FormHelper.tsx # N-400 form assistance
+ │ │ ├── BudgetAnalyzer.tsx # Financial planning tools
+ │ │ ├── FileConverter.tsx # Document utilities
+ │ │ └── ... # Additional components
+ │ ├── services/ # API and data services
+ │ └── lib/ # Utility libraries
+ └── server/ # Backend services
 ```
 
 ## 🚀 Quick Start
@@ -63,26 +63,26 @@ forMom/
 ### Installation & Setup
 
 1. **Clone this repository**
-   ```bash
-   git clone https://github.com/azrabano23/forMom.git
-   cd forMom/N400-Naturalization-Helper/n400-naturalization-helper
-   ```
+ ```bash
+ git clone https://github.com/azrabano23/forMom.git
+ cd forMom/N400-Naturalization-Helper/n400-naturalization-helper
+ ```
 
 2. **Install dependencies**
-   ```bash
-   npm install
-   ```
+ ```bash
+ npm install
+ ```
 
 3. **Set up environment variables** (optional)
-   ```bash
-   cp .env.example .env
-   # Edit .env with your configuration
-   ```
+ ```bash
+ cp .env.example .env
+ # Edit .env with your configuration
+ ```
 
 4. **Start the application**
-   ```bash
-   npm start
-   ```
+ ```bash
+ npm start
+ ```
 
 5. **Open your browser** and navigate to `http://localhost:3000`
 
@@ -124,9 +124,9 @@ forMom/
 
 ## 📱 Device Compatibility
 
-✅ **Desktop Computers** (Windows, Mac, Linux)  
-✅ **Tablets** (iPad, Android tablets)  
-✅ **Mobile Phones** (iOS, Android)  
+✅ **Desktop Computers** (Windows, Mac, Linux) 
+✅ **Tablets** (iPad, Android tablets) 
+✅ **Mobile Phones** (iOS, Android) 
 ✅ **All Modern Browsers** (Chrome, Firefox, Safari, Edge)
 
 ## ⚠️ Important Legal Notice
@@ -191,5 +191,5 @@ This application was created with love and dedication to help people achieve the
 
 ---
 
-**For technical questions or contributions, please open an issue on GitHub.**  
+**For technical questions or contributions, please open an issue on GitHub.** 
 **For immigration legal advice, please consult with a qualified immigration attorney.**
